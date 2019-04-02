@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Play Store</string>
+
+    <string name="review1_person">Common Cam</string>
+    <string name="review1_comment">Very good game with excellent graphics that are pleasing to the eye. There are too many games like this, though. The puzzles get very annoying to the point where its one puzzle per peice of furniture. I could sit and play this game for hours if you got rid of the puzzles completely and just focused on the home design.</string>
+
+    <string name="review2_person">BLR</string>
+    <string name="review2_comment">Its ok, need to do numerous match 3 puzzles to collect money to design clients area. Plus you dont really design anything other than pick what they supply as choices. Colors are mainly, white, gray, brown and black. Not a game for me.</string>
+
+    <string name="review3_person">Heather Single</string>
+    <string name="review3_comment">ive been playing this game since it was in beta. probally one of the main reasons i still play it. because im at level 332. honestly though u need to add ways to get gems outside of special events. or boosters. something because they are way to expensive. and gems are far and in between.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
